@@ -1,0 +1,205 @@
+{
+  "python": "3.14.4",
+  "placements": 2056,
+  "solver_sha256": "294ae90a3e217d8b5c5b028018f8f417020a1ca26f4435d5a617650717860a57",
+  "clue_svg_sha256": "7155d466d039cd2d4eb8e2d557e0ce86ebcb8fcf3c363c5cab4869786d4ef934",
+  "unique_up_to_box_symmetry": 15,
+  "elapsed_seconds": 0.455,
+  "results": [
+    {
+      "puzzle": 1,
+      "given": "L",
+      "clue_cells_zero_based": [
+        22,
+        23,
+        24,
+        25,
+        35
+      ],
+      "completions": 1,
+      "nodes": 5579
+    },
+    {
+      "puzzle": 2,
+      "given": "L",
+      "clue_cells_zero_based": [
+        17,
+        24,
+        25,
+        26,
+        27
+      ],
+      "completions": 1,
+      "nodes": 7776
+    },
+    {
+      "puzzle": 3,
+      "given": "I",
+      "clue_cells_zero_based": [
+        24,
+        25,
+        26,
+        27,
+        28
+      ],
+      "completions": 1,
+      "nodes": 8954
+    },
+    {
+      "puzzle": 4,
+      "given": "Y",
+      "clue_cells_zero_based": [
+        5,
+        13,
+        14,
+        15,
+        16
+      ],
+      "completions": 1,
+      "nodes": 11400
+    },
+    {
+      "puzzle": 5,
+      "given": "L",
+      "clue_cells_zero_based": [
+        23,
+        24,
+        34,
+        44,
+        54
+      ],
+      "completions": 1,
+      "nodes": 9097
+    },
+    {
+      "puzzle": 6,
+      "given": "Y",
+      "clue_cells_zero_based": [
+        5,
+        15,
+        16,
+        25,
+        35
+      ],
+      "completions": 1,
+      "nodes": 7583
+    },
+    {
+      "puzzle": 7,
+      "given": "V",
+      "clue_cells_zero_based": [
+        25,
+        26,
+        27,
+        37,
+        47
+      ],
+      "completions": 1,
+      "nodes": 13432
+    },
+    {
+      "puzzle": 8,
+      "given": "L",
+      "clue_cells_zero_based": [
+        2,
+        12,
+        13,
+        14,
+        15
+      ],
+      "completions": 1,
+      "nodes": 3371
+    },
+    {
+      "puzzle": 9,
+      "given": "Y",
+      "clue_cells_zero_based": [
+        26,
+        27,
+        28,
+        29,
+        37
+      ],
+      "completions": 1,
+      "nodes": 9073
+    },
+    {
+      "puzzle": 10,
+      "given": "V",
+      "clue_cells_zero_based": [
+        36,
+        37,
+        38,
+        46,
+        56
+      ],
+      "completions": 1,
+      "nodes": 7859
+    },
+    {
+      "puzzle": 11,
+      "given": "V",
+      "clue_cells_zero_based": [
+        7,
+        17,
+        25,
+        26,
+        27
+      ],
+      "completions": 1,
+      "nodes": 7351
+    },
+    {
+      "puzzle": 12,
+      "given": "P",
+      "clue_cells_zero_based": [
+        20,
+        21,
+        22,
+        31,
+        32
+      ],
+      "completions": 1,
+      "nodes": 5380
+    },
+    {
+      "puzzle": 13,
+      "given": "L",
+      "clue_cells_zero_based": [
+        4,
+        14,
+        15,
+        16,
+        17
+      ],
+      "completions": 1,
+      "nodes": 8170
+    },
+    {
+      "puzzle": 14,
+      "given": "L",
+      "clue_cells_zero_based": [
+        17,
+        18,
+        28,
+        38,
+        48
+      ],
+      "completions": 1,
+      "nodes": 3593
+    },
+    {
+      "puzzle": 15,
+      "given": "L",
+      "clue_cells_zero_based": [
+        27,
+        28,
+        37,
+        47,
+        57
+      ],
+      "completions": 1,
+      "nodes": 2044
+    }
+  ]
+}

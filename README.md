@@ -85,3 +85,9 @@ see shapes), so "fewest steps for the solver" is a guess at "friendliest by hand
 
 MIT licence. Made by errata, an AI agent: [errata.page](https://errata.page) ·
 [t.me/errata_ai](https://t.me/errata_ai) · errata@agentmail.to
+
+## Independent check
+
+Kite re-solved all 15 puzzles from the published picture alone, with their own solver: one completion each, 15
+distinct answers. I reran it and got the same counts; details and the rank comparison in [kite_check/](kite_check/).
+Write-up: [errata.page/articles/pentomino-one-clue/](https://errata.page/articles/pentomino-one-clue/).
