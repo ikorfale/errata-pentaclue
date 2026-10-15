@@ -1,0 +1,281 @@
+[
+ {
+  "i": 30,
+  "clue": "L",
+  "nodes": 5579,
+  "dead_ends": 3360,
+  "solutions": 1,
+  "forced_before_first_choice": 0,
+  "choices_on_path": 8,
+  "options_on_path": [
+   16,
+   6,
+   3,
+   6,
+   6,
+   5,
+   2,
+   3
+  ]
+ },
+ {
+  "i": 55,
+  "clue": "L",
+  "nodes": 7776,
+  "dead_ends": 4637,
+  "solutions": 1,
+  "forced_before_first_choice": 0,
+  "choices_on_path": 8,
+  "options_on_path": [
+   15,
+   3,
+   5,
+   7,
+   4,
+   7,
+   6,
+   3
+  ]
+ },
+ {
+  "i": 142,
+  "clue": "I",
+  "nodes": 8954,
+  "dead_ends": 5515,
+  "solutions": 1,
+  "forced_before_first_choice": 0,
+  "choices_on_path": 8,
+  "options_on_path": [
+   16,
+   2,
+   7,
+   12,
+   3,
+   5,
+   6,
+   3
+  ]
+ },
+ {
+  "i": 367,
+  "clue": "Y",
+  "nodes": 11400,
+  "dead_ends": 6686,
+  "solutions": 1,
+  "forced_before_first_choice": 0,
+  "choices_on_path": 8,
+  "options_on_path": [
+   4,
+   10,
+   2,
+   9,
+   12,
+   8,
+   6,
+   2
+  ]
+ },
+ {
+  "i": 615,
+  "clue": "L",
+  "nodes": 9097,
+  "dead_ends": 5823,
+  "solutions": 1,
+  "forced_before_first_choice": 0,
+  "choices_on_path": 6,
+  "options_on_path": [
+   20,
+   7,
+   5,
+   9,
+   11,
+   8
+  ]
+ },
+ {
+  "i": 657,
+  "clue": "Y",
+  "nodes": 7583,
+  "dead_ends": 4361,
+  "solutions": 1,
+  "forced_before_first_choice": 0,
+  "choices_on_path": 8,
+  "options_on_path": [
+   11,
+   20,
+   5,
+   5,
+   6,
+   2,
+   3,
+   3
+  ]
+ },
+ {
+  "i": 743,
+  "clue": "V",
+  "nodes": 13432,
+  "dead_ends": 7757,
+  "solutions": 1,
+  "forced_before_first_choice": 0,
+  "choices_on_path": 7,
+  "options_on_path": [
+   17,
+   16,
+   12,
+   11,
+   7,
+   9,
+   4
+  ]
+ },
+ {
+  "i": 744,
+  "clue": "L",
+  "nodes": 3371,
+  "dead_ends": 1928,
+  "solutions": 1,
+  "forced_before_first_choice": 1,
+  "choices_on_path": 8,
+  "options_on_path": [
+   12,
+   3,
+   12,
+   2,
+   5,
+   4,
+   2,
+   2
+  ]
+ },
+ {
+  "i": 784,
+  "clue": "Y",
+  "nodes": 9073,
+  "dead_ends": 5193,
+  "solutions": 1,
+  "forced_before_first_choice": 0,
+  "choices_on_path": 9,
+  "options_on_path": [
+   11,
+   6,
+   9,
+   9,
+   3,
+   6,
+   6,
+   7,
+   2
+  ]
+ },
+ {
+  "i": 994,
+  "clue": "V",
+  "nodes": 7859,
+  "dead_ends": 4472,
+  "solutions": 1,
+  "forced_before_first_choice": 0,
+  "choices_on_path": 9,
+  "options_on_path": [
+   7,
+   4,
+   19,
+   17,
+   14,
+   3,
+   4,
+   5,
+   3
+  ]
+ },
+ {
+  "i": 1036,
+  "clue": "V",
+  "nodes": 7351,
+  "dead_ends": 4477,
+  "solutions": 1,
+  "forced_before_first_choice": 0,
+  "choices_on_path": 7,
+  "options_on_path": [
+   13,
+   5,
+   6,
+   9,
+   6,
+   5,
+   3
+  ]
+ },
+ {
+  "i": 1195,
+  "clue": "P",
+  "nodes": 5380,
+  "dead_ends": 3171,
+  "solutions": 1,
+  "forced_before_first_choice": 0,
+  "choices_on_path": 6,
+  "options_on_path": [
+   6,
+   5,
+   8,
+   15,
+   10,
+   9
+  ]
+ },
+ {
+  "i": 2716,
+  "clue": "L",
+  "nodes": 8170,
+  "dead_ends": 4739,
+  "solutions": 1,
+  "forced_before_first_choice": 1,
+  "choices_on_path": 6,
+  "options_on_path": [
+   19,
+   3,
+   7,
+   15,
+   6,
+   4
+  ]
+ },
+ {
+  "i": 2878,
+  "clue": "L",
+  "nodes": 3593,
+  "dead_ends": 2154,
+  "solutions": 1,
+  "forced_before_first_choice": 0,
+  "choices_on_path": 8,
+  "options_on_path": [
+   3,
+   3,
+   2,
+   7,
+   6,
+   5,
+   3,
+   2
+  ]
+ },
+ {
+  "i": 3405,
+  "clue": "L",
+  "nodes": 2044,
+  "dead_ends": 1216,
+  "solutions": 1,
+  "forced_before_first_choice": 0,
+  "choices_on_path": 8,
+  "options_on_path": [
+   7,
+   3,
+   5,
+   7,
+   10,
+   6,
+   3,
+   4
+  ]
+ }
+]
