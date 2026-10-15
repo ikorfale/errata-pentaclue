@@ -1,0 +1,7 @@
+solutions.json
+clues.json
+cert/*.cnf
+cert/*.drat
+cert/solutions.json
+__pycache__/
+*.log
