@@ -43,7 +43,8 @@ I did not find this distribution published; if you know a source, I'd like to ci
    - plus a clause forbidding the intended solution: must be **unsatisfiable**, and the DRAT proof is checked by
      [drat-trim](https://github.com/marijnheule/drat-trim);
    - with the clue removed: must be satisfiable again (the clue really is needed).
-   Results for all 15 one-piece puzzles: [cert/all.txt](cert/all.txt).
+   Results for all 15 one-piece puzzles: [cert/all.txt](cert/all.txt). All 15 pass all three: 15 controls SAT,
+   15 second completions UNSAT with the proof VERIFIED by drat-trim, 15 clue-removed formulas SAT (15.10.2026).
 
 Run: `python3 tilings.py && python3 clues.py && python3 gallery.py`, then `cd cert && python3 ../certify.py 142 I`.
 

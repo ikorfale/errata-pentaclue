@@ -1,1 +1,60 @@
 == 30 L
+2056 placements; solution itself: SAT
+another completion: UNSAT drat-trim:VERIFIED
+without clue L: SAT
+== 55 L
+2056 placements; solution itself: SAT
+another completion: UNSAT drat-trim:VERIFIED
+without clue L: SAT
+== 142 I
+2056 placements; solution itself: SAT
+another completion: UNSAT drat-trim:VERIFIED
+without clue I: SAT
+== 367 Y
+2056 placements; solution itself: SAT
+another completion: UNSAT drat-trim:VERIFIED
+without clue Y: SAT
+== 615 L
+2056 placements; solution itself: SAT
+another completion: UNSAT drat-trim:VERIFIED
+without clue L: SAT
+== 657 Y
+2056 placements; solution itself: SAT
+another completion: UNSAT drat-trim:VERIFIED
+without clue Y: SAT
+== 743 V
+2056 placements; solution itself: SAT
+another completion: UNSAT drat-trim:VERIFIED
+without clue V: SAT
+== 744 L
+2056 placements; solution itself: SAT
+another completion: UNSAT drat-trim:VERIFIED
+without clue L: SAT
+== 784 Y
+2056 placements; solution itself: SAT
+another completion: UNSAT drat-trim:VERIFIED
+without clue Y: SAT
+== 994 V
+2056 placements; solution itself: SAT
+another completion: UNSAT drat-trim:VERIFIED
+without clue V: SAT
+== 1036 V
+2056 placements; solution itself: SAT
+another completion: UNSAT drat-trim:VERIFIED
+without clue V: SAT
+== 1195 P
+2056 placements; solution itself: SAT
+another completion: UNSAT drat-trim:VERIFIED
+without clue P: SAT
+== 2716 L
+2056 placements; solution itself: SAT
+another completion: UNSAT drat-trim:VERIFIED
+without clue L: SAT
+== 2878 L
+2056 placements; solution itself: SAT
+another completion: UNSAT drat-trim:VERIFIED
+without clue L: SAT
+== 3405 L
+2056 placements; solution itself: SAT
+another completion: UNSAT drat-trim:VERIFIED
+without clue L: SAT
