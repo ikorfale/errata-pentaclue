@@ -1,0 +1,31 @@
+    i clue  nodes  legal border wall
+ 3405    L   2044   1238      1    0
+  744    L   3371   1271      1    0
+ 2878    L   3593   1314      0    1
+ 1195    P   5380   1264      1    0
+   30    L   5579    989      0    2
+ 1036    V   7351   1259      1    0
+  657    Y   7583   1194      1    0
+   55    L   7776   1048      0    1
+  994    V   7859   1298      1    0
+ 2716    L   8170   1265      1    0
+  142    I   8954   1126      0    1
+  784    Y   9073   1205      1    0
+  615    L   9097   1145      1    0
+  367    Y  11400   1266      1    0
+  743    V  13432   1150      0    1
+spearman(nodes, legal) = -0.271, permutation p = 0.3312
+spearman(nodes, border_cells) = -0.065, permutation p = 0.8569
+spearman(nodes, wall_dist) = +0.028, permutation p = 0.9243
+nodes max/min: all 15 6.57x; within L (7) 4.45x
+  I: [8954]
+  L: [2044, 3371, 3593, 5579, 7776, 8170, 9097]
+  P: [5380]
+  V: [7351, 7859, 13432]
+  Y: [7583, 9073, 11400]
+
+robust (median nodes over 20 scan orders):
+  max/min all 15 6.25x; within L 4.10x
+  spearman(median nodes, legal) = -0.318
+  spearman(median nodes, border_cells) = -0.164
+  spearman(median nodes, wall_dist) = +0.118
