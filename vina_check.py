@@ -41,3 +41,17 @@ for p in sorted({r['clue'] for r in res}):
     v = sorted(r['nodes'] for r in res if r['clue'] == p)
     print(f'  {p}: {v}')
 json.dump(res, open('vina_check.json', 'w'), indent=1)
+
+# follow-up guess: the shape of the hole, not its size. Cells with few ways to be covered right after the clue.
+print('\nfollow-up: tight cells after the clue (empty cells coverable by <=2 / <=4 legal placements), min options')
+for r in res:
+    pz_sol = {p: tuple(sorted(cs)) for p, cs in sols[r['i']]}
+    k = next(k for k in range(len(H.rows)) if H.labels[k] == r['clue'] and H.coords[k] == pz_sol[r['clue']])
+    av = ((1 << len(H.rows)) - 1) & ~H.conf[k]
+    cnt = [(H.cols[c] & av).bit_count() for c in range(60) if not (H.rows[k] >> c & 1)]
+    r.update(tight2=sum(x <= 2 for x in cnt), tight4=sum(x <= 4 for x in cnt), min_opts=min(cnt))
+for key in ('tight2', 'tight4', 'min_opts'):
+    v = [r[key] for r in res]
+    rho = spearmanr(n, v).statistic
+    hits = sum(abs(spearmanr(n, rng.sample(v, len(v))).statistic) >= abs(rho) - 1e-12 for _ in range(20000))
+    print(f'spearman(nodes, {key}) = {rho:+.3f}, permutation p = {hits / 20000:.4f}   values {v}')

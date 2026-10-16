@@ -24,7 +24,12 @@ nodes max/min: all 15 6.57x; within L (7) 4.45x
   V: [7351, 7859, 13432]
   Y: [7583, 9073, 11400]
 
-robust (median nodes over 20 scan orders):
+follow-up: tight cells after the clue (empty cells coverable by <=2 / <=4 legal placements), min options
+spearman(nodes, tight2) = -0.182, permutation p = 0.5707   values [0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+spearman(nodes, tight4) = -0.133, permutation p = 0.6418   values [0, 1, 5, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 1, 0]
+spearman(nodes, min_opts) = +0.392, permutation p = 0.1457   values [7, 1, 3, 6, 25, 13, 11, 15, 7, 1, 18, 11, 27, 4, 19]
+
+robust (median nodes over 20 scan orders, hardness_robust.json):
   max/min all 15 6.25x; within L 4.10x
   spearman(median nodes, legal) = -0.318
   spearman(median nodes, border_cells) = -0.164
