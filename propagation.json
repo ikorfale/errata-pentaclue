@@ -1,0 +1,167 @@
+[
+ {
+  "i": 30,
+  "clue": "L",
+  "L1_placed": 0,
+  "L2_placed": 0,
+  "L2_solved": false,
+  "placements_left_L2": 772,
+  "median_nodes": 6782.5,
+  "placements_before": 989,
+  "placements_after_L1": 989
+ },
+ {
+  "i": 55,
+  "clue": "L",
+  "L1_placed": 0,
+  "L2_placed": 0,
+  "L2_solved": false,
+  "placements_left_L2": 820,
+  "median_nodes": 7897.5,
+  "placements_before": 1048,
+  "placements_after_L1": 1048
+ },
+ {
+  "i": 142,
+  "clue": "I",
+  "L1_placed": 0,
+  "L2_placed": 0,
+  "L2_solved": false,
+  "placements_left_L2": 917,
+  "median_nodes": 9103.0,
+  "placements_before": 1126,
+  "placements_after_L1": 1126
+ },
+ {
+  "i": 367,
+  "clue": "Y",
+  "L1_placed": 0,
+  "L2_placed": 0,
+  "L2_solved": false,
+  "placements_left_L2": 891,
+  "median_nodes": 11392.5,
+  "placements_before": 1266,
+  "placements_after_L1": 1266
+ },
+ {
+  "i": 615,
+  "clue": "L",
+  "L1_placed": 0,
+  "L2_placed": 0,
+  "L2_solved": false,
+  "placements_left_L2": 821,
+  "median_nodes": 8785.5,
+  "placements_before": 1145,
+  "placements_after_L1": 1145
+ },
+ {
+  "i": 657,
+  "clue": "Y",
+  "L1_placed": 0,
+  "L2_placed": 0,
+  "L2_solved": false,
+  "placements_left_L2": 864,
+  "median_nodes": 7743.0,
+  "placements_before": 1194,
+  "placements_after_L1": 1194
+ },
+ {
+  "i": 743,
+  "clue": "V",
+  "L1_placed": 0,
+  "L2_placed": 0,
+  "L2_solved": false,
+  "placements_left_L2": 949,
+  "median_nodes": 13387.5,
+  "placements_before": 1150,
+  "placements_after_L1": 1150
+ },
+ {
+  "i": 744,
+  "clue": "L",
+  "L1_placed": 1,
+  "L2_placed": 1,
+  "L2_solved": false,
+  "placements_left_L2": 658,
+  "median_nodes": 3369.5,
+  "placements_before": 1271,
+  "placements_after_L1": 1139
+ },
+ {
+  "i": 784,
+  "clue": "Y",
+  "L1_placed": 0,
+  "L2_placed": 0,
+  "L2_solved": false,
+  "placements_left_L2": 798,
+  "median_nodes": 9077.5,
+  "placements_before": 1205,
+  "placements_after_L1": 1205
+ },
+ {
+  "i": 994,
+  "clue": "V",
+  "L1_placed": 0,
+  "L2_placed": 1,
+  "L2_solved": false,
+  "placements_left_L2": 731,
+  "median_nodes": 7944.0,
+  "placements_before": 1298,
+  "placements_after_L1": 1298
+ },
+ {
+  "i": 1036,
+  "clue": "V",
+  "L1_placed": 0,
+  "L2_placed": 0,
+  "L2_solved": false,
+  "placements_left_L2": 809,
+  "median_nodes": 7515.5,
+  "placements_before": 1259,
+  "placements_after_L1": 1259
+ },
+ {
+  "i": 1195,
+  "clue": "P",
+  "L1_placed": 0,
+  "L2_placed": 0,
+  "L2_solved": false,
+  "placements_left_L2": 630,
+  "median_nodes": 5456.0,
+  "placements_before": 1264,
+  "placements_after_L1": 1264
+ },
+ {
+  "i": 2716,
+  "clue": "L",
+  "L1_placed": 1,
+  "L2_placed": 1,
+  "L2_solved": false,
+  "placements_left_L2": 806,
+  "median_nodes": 7668.0,
+  "placements_before": 1265,
+  "placements_after_L1": 1196
+ },
+ {
+  "i": 2878,
+  "clue": "L",
+  "L1_placed": 0,
+  "L2_placed": 1,
+  "L2_solved": false,
+  "placements_left_L2": 707,
+  "median_nodes": 3514.5,
+  "placements_before": 1314,
+  "placements_after_L1": 1314
+ },
+ {
+  "i": 3405,
+  "clue": "L",
+  "L1_placed": 0,
+  "L2_placed": 1,
+  "L2_solved": false,
+  "placements_left_L2": 583,
+  "median_nodes": 2141.5,
+  "placements_before": 1238,
+  "placements_after_L1": 1238
+ }
+]
